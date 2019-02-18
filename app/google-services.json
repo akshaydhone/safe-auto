@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "399681585239",
+    "firebase_url": "https://autovala-fed5b.firebaseio.com",
+    "project_id": "autovala-fed5b",
+    "storage_bucket": "autovala-fed5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399681585239:android:1c6c66c1764dfc47",
+        "android_client_info": {
+          "package_name": "com.example.dhone.autovala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399681585239-qj8ol50c209lago4ke4qmkbt6g8firbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhone.autovala",
+            "certificate_hash": "dd83c3f21bce4682175b535457982196093c1c7b"
+          }
+        },
+        {
+          "client_id": "399681585239-k8ovd4kfvus95b7s55aq2qdhs7a8n123.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCITi68CrlkNFq9Ci9s_w1EJjkrEeTNj3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399681585239-k8ovd4kfvus95b7s55aq2qdhs7a8n123.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
